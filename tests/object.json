@@ -1,0 +1,55 @@
+{
+    "_id": "63380841f6a25d58e23135c5",
+    "index": 0,
+    "guid": "5f554020-5c07-4537-a691-32a29d67c4eb",
+    "isActive": false,
+    "balance": "$2,426.66",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "blue",
+    "name": "Solomon Bell",
+    "gender": "male",
+    "company": "XELEGYL",
+    "email": "solomonbell@xelegyl.com",
+    "phone": "+1 (990) 433-3289",
+    "address": "837 Sapphire Street, Rockbridge, Missouri, 8977",
+    "about": "Anim incididunt anim non eiusmod officia dolore. Nisi aliquip quis cupidatat et exercitation cillum ullamco aliquip tempor magna in amet sint. Ea pariatur cupidatat duis nisi amet tempor laborum. Deserunt velit proident deserunt nostrud. Deserunt laboris qui eiusmod adipisicing irure. Ullamco aliqua velit enim cupidatat in adipisicing. Do occaecat velit ad mollit.\r\n",
+    "registered": "2020-08-27T02:21:40 -02:00",
+    "latitude": -13.214193,
+    "longitude": 174.640618,
+    "tags": [
+      "pariatur",
+      "id",
+      "aliquip",
+      "ea",
+      "cillum",
+      "et",
+      "enim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rosie Franklin"
+      },
+      {
+        "id": 1,
+        "name": "Watts Chan"
+      },
+      {
+        "id": 2,
+        "name": "Mack Albert"
+      }
+    ],
+    "greeting": "Hello, Solomon Bell! You have 10 unread messages.",
+    "favoriteFruit": "banana",
+    "cant":{
+        "get": {
+            "deeper": {
+                "than": {
+                    "this": "right?"
+                }
+            },
+            "enough": "of this"
+        }
+    }
+}
